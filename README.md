@@ -4,13 +4,13 @@ This Weather App provides real-time weather information, air quality data, locat
 The app integrates OpenWeatherAPI, Mapbox, Air Quality Open Data Platform (AQODP) and a Rapid Geolocation API to enhance its functionality.
 
 # Features
-    Weather Information:
+   Weather Information:
         Real-time weather data including temperature, description, icon, coordinates, feels-like temperature, humidity,
         pressure, wind speed, country code, and rain volume for the last 3 hours.
         Search box to input any city and retrieve relevant weather data.
-    Air Quality:
+   Air Quality:
         Displays air quality data, including AQI (Air Quality Index).
-    Geolocation and Mapping:
+   Geolocation and Mapping:
         Visual representation of geographical locations of entered cities on a map.
 
 ## Used Technologies
