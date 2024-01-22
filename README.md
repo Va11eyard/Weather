@@ -36,11 +36,11 @@ Once you download the project go to terminal in your IDE and run this command "*
 │   │   ├── index.html
 │   │   ├── script.js
 │   ├── .gitignore
-│   ├── package.json
-│   ├── server.js
+│   ├── README.md
 │   ├── package-lock.json
+│   ├── package.json
 │   ├── process.env
-│   └── README.md
+│   └── server.js
 ```
 
     
